@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/noor/static/css/main.51386979.css",
+    "main.js": "/noor/static/js/main.42af6689.js",
+    "static/js/787.8048ec4d.chunk.js": "/noor/static/js/787.8048ec4d.chunk.js",
+    "static/media/tsr2.png": "/noor/static/media/tsr2.30a5721282f038877ac6.png",
+    "static/media/108347-designer.gif": "/noor/static/media/108347-designer.1d3d2892cd25e6e8b9eb.gif",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/noor/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/tree.png": "/noor/static/media/tree.8a1d8fbfd66007f1a5f4.png",
+    "static/media/BBgS.gif": "/noor/static/media/BBgS.2e1ed8b3a90d79ab3c7d.gif",
+    "static/media/fontawesome-webfont.eot": "/noor/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/noor/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bootstrap-icons.woff?": "/noor/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/noor/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/tsr.png": "/noor/static/media/tsr.2220d824f649f86fe4e7.png",
+    "static/media/86.jpg": "/noor/static/media/86.0a8ae804c80bf0f7c32c.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/noor/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/Delbar2 Bold .ttf": "/noor/static/media/Delbar2 Bold .fb840d5fc110c65e1cdb.ttf",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/noor/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Tech.jpg": "/noor/static/media/Tech.b205940073b0aca4c479.jpg",
+    "static/media/Circle-icons-brush-pencil.svg.png": "/noor/static/media/Circle-icons-brush-pencil.svg.24b06088c32c20b46c53.png",
+    "static/media/wwp.png": "/noor/static/media/wwp.9c3464a362df8cf1163c.png",
+    "static/media/hadye.ttf": "/noor/static/media/hadye.9bcbf1255050394ca98e.ttf",
+    "static/media/bg3.jpg": "/noor/static/media/bg3.c2922acae3024700f76f.jpg",
+    "static/media/3170748.png": "/noor/static/media/3170748.b6d62b51a3bea3937021.png",
+    "static/media/coding-interview.webp": "/noor/static/media/coding-interview.8511d2986faf6eb172d5.webp",
+    "static/media/316313.png": "/noor/static/media/316313.ec7d939e6a8339345ca1.png",
+    "index.html": "/noor/index.html",
+    "main.51386979.css.map": "/noor/static/css/main.51386979.css.map",
+    "main.42af6689.js.map": "/noor/static/js/main.42af6689.js.map",
+    "787.8048ec4d.chunk.js.map": "/noor/static/js/787.8048ec4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51386979.css",
+    "static/js/main.42af6689.js"
+  ]
+}
