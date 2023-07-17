@@ -1,0 +1,25 @@
+.bb{
+    font-size: 33px;
+    background-color: black;
+    color: white;
+border: none;
+word-spacing: 2px;
+width:200px;
+height:60px;
+}
+.aa{
+  display: flex;
+  justify-content: center;
+  width:200px;
+    height:60px;
+   
+
+}
+.bb:hover {
+    background: #c9e6ff;
+    color: black;  
+    transition: background-color 0.9 s ease-out;
+  }
+.blackbutt{
+    background-color: white;
+}

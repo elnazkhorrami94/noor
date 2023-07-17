@@ -1,0 +1,15 @@
+.basefont{
+    font-size: 26px !important;
+    word-spacing:3px;
+   
+}
+.bluecontext{
+    padding: 1%;
+  text-align: center;
+     background-color:  rgba(150 207 213 / 82%);
+     color: rgb(255, 255, 255);
+     margin-right: 2%;
+    font-size: 27px;
+   margin-bottom: 11%;
+   border-radius: 10px;
+ }

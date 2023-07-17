@@ -1,0 +1,79 @@
+.w{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 10%;
+}
+.context{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-bottom: 0%;
+}
+
+.div1{
+    display: flex;
+    flex-direction: row;
+     margin-top: 5%;
+     width: 100%;
+}
+.div2{
+    display: flex;
+    flex-direction: row;
+     margin-top: 5%;
+     width: 100%;
+}
+.tozihat{
+ display: flex;
+ flex-direction: row;
+ margin-left: 3%;
+}
+.imageph{
+  width: 100%; 
+  object-fit:cover;
+  margin-top:-20%;
+}
+.divpicture{
+    width: 50%;
+   margin-bottom: 5%;
+}
+
+@media screen and (max-width:960px){
+
+    .w{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 10%;
+        background-size:950px 1100px !important;
+       
+    }
+    .context{
+        display: flex;
+        flex-direction: column;
+        width: 96%;
+        margin-bottom: 20%;
+ margin-left: 2%;
+ margin-right: 2%;
+       
+    }
+    .imageph{
+        width: 60%;
+        height: 300px;
+        margin-right: 0px;
+      justify-content: center;
+      margin-right: 20%;
+    
+     
+      }
+      .divpicture{
+          width: 100%;
+         margin-bottom: 3%;
+         justify-content: center;
+        
+      }
+      .basefont{
+        font-size: 22px !important;
+        word-spacing:1px;
+    }
+}

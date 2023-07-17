@@ -1,0 +1,23 @@
+.foot{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background-color: rgb(89, 106, 107);
+    height: 150px;
+    padding: 5%;
+}
+.calls{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background-color: rgb(89, 106, 107);
+    
+    gap: 15px;
+}
+@media screen and (max-width:960px){
+
+}

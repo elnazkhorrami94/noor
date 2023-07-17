@@ -1,0 +1,14 @@
+.but{
+    font-weight: 900;
+    color: rgb(255, 255, 255); 
+   background: rgba(255, 255, 255, 0%); 
+    border: 0px solid #f8f6f600;
+    font-size: 25px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+   margin-right: 15px;
+}
+
+  .but:hover{
+  color: white;
+  }

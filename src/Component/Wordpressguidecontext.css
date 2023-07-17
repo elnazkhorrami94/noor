@@ -1,0 +1,18 @@
+.colomnheader{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+}
+.one{
+    transition-delay: 1s;
+}
+.two{
+    transition-delay: 1.3s;
+}
+.three{
+    transition-delay:1.5s;
+}
+.four{
+    transition-delay: 1.8s;
+}

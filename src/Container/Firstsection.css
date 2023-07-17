@@ -1,0 +1,110 @@
+.bg{
+  display: flex;
+  flex-direction: row;
+  height: 600px !important;
+  background-size:initial !important;
+}
+
+.fig{
+  transition-delay: 1.5s;
+  width:100%;
+ text-align: center;
+  background: rgba(255, 255, 255, 0%);
+ }
+ .ico1{
+  height: 70px;
+    width: 70px;
+    background: rgba(255, 255, 255, 0%);
+ }
+ .cap{
+  background: rgba(255, 255, 255, 0%);
+ }
+ .con{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 70%;
+  margin-top: 5px;
+ }
+.firstchild{
+    display:flex;
+    flex-direction: column;
+    width: 50%;
+  float: right;
+  margin-top: 10%;
+  align-items: center;
+  
+  justify-items: center;
+}
+.secondchild{
+    display:flex;
+    width: 50%;
+  float:left; 
+  margin-top: 8%; 
+margin-bottom: 3%;
+  
+}
+.lap{
+    width: 70%;
+    height:100%;
+    object-fit:inherit;
+    border-radius: 50%;
+    margin-right: 10%;
+    border-color: white;
+    border-width: 13px;
+    border-style: solid;
+}
+
+hr{
+width: 80%;
+height:30px;
+margin-right: 10%;
+border-top: 10px solid rgba(150 207 213 / 82%);
+opacity: 1;
+}
+
+@media screen and (max-width:960px){
+  .bg{
+    display: flex;
+    flex-direction: column;
+    height: auto !important;
+  }
+  .firstchild{
+    display:flex;
+    flex-direction: column;
+    width: 100%;
+ justify-content: center;
+  align-items: center;
+  
+}
+.secondchild{
+  display:flex;
+  width: 100%;
+
+  
+}
+.bb{
+  font-size: 20px;
+ 
+  background-color: black;
+  color: white;
+border: none;
+}
+.aa{
+  display: flex;
+  justify-content: center;
+  width: 25%;
+    height: auto;
+    background-color: black; 
+
+}
+.lap{
+  width: 60%;
+  height:120%;
+  border-radius: 50%;
+  margin-right: 20%;
+  border-color: white;
+  border-width: 13px;
+  border-style: solid;
+}
+}

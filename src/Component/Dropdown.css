@@ -1,0 +1,63 @@
+.butoon{
+    font-weight: 900;
+    color: rgb(255, 255, 255); 
+   background: rgba(255, 255, 255, 0%); 
+    border: 0px solid #f8f6f600;
+    font-size: 25px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+   margin-right: 15px;
+}
+
+  .butoon:hover{
+  color: white;
+  }
+.dropdown {
+   position: relative;
+    
+   
+  }
+  .nav-linq {
+  
+    width: 120%;
+    display: table;
+    color: white;
+  }
+  .mn{
+    display: flex;
+    flex-direction: row;
+    background: rgba(255, 255, 255, 0);
+  }
+  .menu {
+    position: fixed;
+  
+    list-style-type: none;
+   
+    padding: 0;
+  
+  
+    width: 150px;
+    font-weight: 900;
+    
+    background:rgba(150, 207, 213, 0.534);
+    
+    border: none;
+    font-size: 18px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+   
+  }
+  
+  .menu > li {
+    margin: 0;
+  
+    background: rgba(173, 226, 229, 0); 
+  }
+  
+  
+  
+
+  .menu-item{
+    color: white;
+    height: 50px;
+  }

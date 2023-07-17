@@ -1,0 +1,85 @@
+.services{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+margin-top: 5%;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+margin-top: 5%;
+justify-content: center;
+margin-bottom: 5%;
+
+}
+.card1{
+display: flex;
+flex-direction: column;
+align-items: center;
+text-align: center;
+justify-items: center;
+background-color: rgba(150 207 213 / 82%);
+width: 27%;
+padding: 2%;
+border-radius: 8%;
+transition-delay: 1s;
+margin-right: 3%;
+}
+.card2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(150 207 213 / 82%);
+    
+}
+.card3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(150 207 213 / 82%);
+}
+.logomiddle{
+    color: rgb(255, 255, 255) ;
+   font-size: 80px;
+   
+    width: 30%;
+    height: 45%;
+    border-radius: 15%;
+    align-items: center;
+    align-content: center;
+    margin-top: 10%;
+    padding: 1%;
+}
+.basefont{
+    font-size: 26px !important;
+    word-spacing:3px;
+   
+}
+@media screen and (max-width:960px){
+    .cards{
+        display: flex;
+        flex-direction: column;  
+    justify-content:center !important;
+margin-right: 5%;
+margin-left:5%;
+     }
+    .card1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: rgba(150 207 213 / 82%);
+        width: 80%;
+        padding: 2%;
+        border-radius: 8%;
+        margin-bottom: 2%;
+        margin-right: 8%;
+        }
+        .services{
+            margin-right: 2%;
+            margin-left: 2%;
+        }
+        .basefont{
+            font-size: 22px !important;
+            word-spacing:1px;
+        }
+}
